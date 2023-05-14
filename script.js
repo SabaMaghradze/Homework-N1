@@ -14,7 +14,7 @@ console.log(name + ", " + surname + ", " + gender + ", " + yearOfBirth + ".");
 //     yearOfBirth: 2001
 // };
 
-//     console.log(personalData.name)
+//     console.log(personalData.name);
 
 
 
@@ -32,4 +32,4 @@ console.log(name + ", " + surname + ", " + gender + ", " + yearOfBirth + ".");
 
 let remainder = 101 % 2;
 
-console.log(remainder)
+console.log(remainder);
